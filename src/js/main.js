@@ -3,7 +3,17 @@
  * @author  David VanDusen
  * @version 0.3.2
  */
-define(["domReady", "helper/bindable", "helper/sound", "helper/keyboard"], function (domReady, Bindable, Sound, keyboard) {
+define([
+	"../lib/require/domReady",
+	"bindable",
+	"sound",
+	"keyboard"
+], function (
+	domReady,
+	Bindable,
+	Sound,
+	keyboard
+) {
 	"use strict";
 
 	/**
