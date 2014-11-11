@@ -1,0 +1,13 @@
+* { font: normal normal 16px/1 "Courier New", Courier, monospace; }
+body, html { overflow: hidden; }
+body { background-color: rgb(0,0,0); color: rgb(255,255,255); }
+canvas { display: block; left: 0; position: fixed; top: 0; z-index: 1; }
+h1, pre { background-color: rgb(0,0,0); background-color: rgba(0,0,0,.9); border: 1px solid rgb(255,255,255); }
+h1 { font-size: 2em; margin: 0 auto; padding: 15px 25px; text-align: center; width: 260px; }
+pre { border-width: 0 1px 1px; line-height: 1.25; margin: 0 auto; padding: 10px 25px; width: 260px; }
+input { background-color: transparent; border: 1px solid rgb(255,255,255); color: rgb(255,255,255); }
+#container { display: table; height: 100%; left: 0; position: fixed; top: 0; z-index: 2; width: 100%; }
+#container.hide { left: -999em; }
+#container.show { left: 0; }
+#container > div { display: table-cell; vertical-align: middle; }
+#clear-button { cursor: pointer; }
