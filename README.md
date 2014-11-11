@@ -2,8 +2,8 @@
 
 By David VanDusen
 
-This project was originally done as a project for a course at BCIT in 2011.
-Following is the readme that was provided with the project submission.
+This was originally done for a course at BCIT in 2011. Following is the readme
+that was provided with the project submission.
 
 ---
 
