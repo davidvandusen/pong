@@ -1,8 +1,0 @@
-body { background: rgb(241,242,243); color: rgb(41,41,41); font: 100%/1.5 sans-serif; margin: 2em auto 50%; max-width: 640px; padding: 0 5%; }
-h1 { font-size: 1.25em; font-weight: normal; margin: 1em 0; }
-h2 { font-size: 1em; font-weight: bold; margin: 1em 0; }
-h3 { font-size: 1em; font-style: italic; font-weight: normal; margin: 1em 0; }
-img { display: block; margin: 0 auto; max-width: 100%; }
-p { margin: 1em 0; }
-.byline { margin-top: -1em; }
-.dateline { margin: 0; text-align: right; }
