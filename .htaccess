@@ -1,7 +1,0 @@
-Header set X-UA-Compatible "IE=edge,chrome=1"
-
-AddType text/cache-manifest .appcache
-
-AddType audio/wav .wav
-AddType audio/ogg .ogg
-AddType audio/mpeg .mp3
