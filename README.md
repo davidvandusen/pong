@@ -2,6 +2,8 @@
 
 By David VanDusen
 
+Viewable at: http://figureandsound.com/pong/
+
 This was originally done for a course at BCIT in 2011. Following is the readme
 that was provided with the project submission.
 
